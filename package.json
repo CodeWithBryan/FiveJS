@@ -1,0 +1,10 @@
+{
+  "name": "FiveJS",
+  "version": "1.0.0",
+  "description": "FiveM Javascript Framework",
+  "main": "main.js",
+  "repository": "https://github.com/CodeWithBryan/FiveJS",
+  "author": "MrBoolean <contact@mrboolean.io>",
+  "license": "MIT",
+  "packageManager": "yarn@3.2.2"
+}
